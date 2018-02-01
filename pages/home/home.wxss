@@ -1,0 +1,67 @@
+swiper {
+    height: 200px;
+}
+image {
+    width: 100%;
+    height: 200px;
+}
+.shop-name {
+    border-bottom: 1px solid #CCC;
+    height: 50px;
+    position: relative;
+}
+
+.shop-name span {
+    height: 50px;
+    line-height: 50px;
+    margin-left: 1rem;
+    font-size: 0.9rem;
+}
+
+.shop-name button {
+    width: 80px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    right: 1rem;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    font-size: 0.9rem;
+}
+
+.youhui {
+    border-bottom: 1px solid #CCC;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    position: relative;
+}
+
+.youhui .fl {
+    width: 50%;
+}
+.youhui .fr {
+    width: 32%;
+    position: absolute;
+    top: 0.5rem;
+    right: 0;
+}
+
+.youhui .fr text {
+    display: inline-block;
+    width: 100%;
+    color: #CCC;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.youhui .fr button {
+    width: 80px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 50px;
+}
